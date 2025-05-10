@@ -528,7 +528,7 @@ def contact_page():
     st.markdown("""
     We'd love to hear from you. For support, questions, or suggestions:
     
-    -  **Email**: support@aimedicalassist.com
+    -  **Email**: abdullbasit0023@gmail.com
     -  **Website**: [www.aimedicalassist.com](#)
     -  **Feedback Form**: [Fill here](#)
     -  **Support Hours**: Mon-Fri, 9AM - 5PM (Local Time)
